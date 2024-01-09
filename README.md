@@ -1,0 +1,2 @@
+# TyporaPC
+PC_Typora
